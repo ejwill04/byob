@@ -97,4 +97,4 @@ BYOB is a template for setting up a database and API endpoints using Node, Expre
 
 ## Testing, Testing, 1, 2, Test, 1, 2, Test
 
-![passing-tests-screenshot](http://i.imgur.com/c7lZroW.png)
+![passing-tests-screenshot](http://i.imgur.com/QoMyQEz.png)
